@@ -1,1 +1,4 @@
-echo "touch up_to_date" > /0x03-git/up_to_date
+git pull origin main
+git add up_to_date
+git commit -m "How to be up to date in git"
+git push origin main
