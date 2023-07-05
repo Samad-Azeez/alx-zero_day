@@ -1,1 +1,1 @@
-echo "touch up_to_date" > /0x03/up_to_date
+echo "touch up_to_date" > /0x03-git/up_to_date
